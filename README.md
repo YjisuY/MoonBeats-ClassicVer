@@ -42,4 +42,4 @@
 ### 목표 달성 여부 판단 기준
 -	목표 달성 여부는 아래와 같은 10가지의 기준으로 목표 달성 여부를 판단한다.
 
-<img src="https://user-images.githubusercontent.com/130039117/234806343-dcd930c5-0ec3-4b41-a1b0-8a87a6d42107.png width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/130039117/234806343-dcd930c5-0ec3-4b41-a1b0-8a87a6d42107.png  width="200" height="400"/>
