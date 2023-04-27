@@ -84,8 +84,6 @@
 
 
 ## 7. 참고 문헌
-• https://www.inflearn.com/pages/weekly-inflearn-27 (UI 디자인 어플)
-
 • https://treeof.tistory.com/174 (클래식의 저작권에 관해)
 
 •	https://www.mangoboard.net (사용자 UI – 망고보드를 이용하여 직접 디자인)
