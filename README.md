@@ -26,16 +26,16 @@
 -	게임의 첫 시작화면(추후 코딩과 함께 언어, 게임방법, 플레이 버튼을 추가)
 ![image](https://user-images.githubusercontent.com/130039117/234804134-d9a2b7bf-48d1-4aa4-bb72-e80ea7909e4b.png)
 
-
 -	게임의 곡 선택화면
+
 ![image](https://user-images.githubusercontent.com/130039117/234804206-81a7a32d-eb12-4684-94da-661a1529401c.png)
 
-
 -	게임의 진행 화면
+
 ![image](https://user-images.githubusercontent.com/130039117/234804265-4f21177e-764f-4754-9599-c9de71cde637.png)
 
-
 -	게임이 끝난 후 결과 화면 
+
 ![image](https://user-images.githubusercontent.com/130039117/234804311-c62d596e-930b-4e9a-a5dd-e744ed8f2c16.png)
 
 
