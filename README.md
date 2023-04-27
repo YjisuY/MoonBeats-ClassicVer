@@ -1,4 +1,3 @@
 # Project: MoonBeats-ClassicVer
 ## 프로젝트 제안서
-# 프로젝트의 추진 배경
-#	최근 학과 ‘데이터마이닝’ 수업에서 Clustering(군집화)에 대해 배우는 과정 중 12개의 클래식 곡을 학생들에게 들려주고 선호도를 조사한 자료를 통해 군집분석을 실습해보았던 경험이 있다. 학과 특성상 파이썬을 통계 분석이나 데이터 마이닝의 용도로 대부분 사용했었지만, 이번 프로젝트에 대해 고민해보며 ‘군집화의 결과를 프로그램 개발에 직접 이용해보자’라는 아이디어가 떠올랐다. 그래서 파이썬을 이용한 간단한 게임제작이라는 주제로부터 출발하여 ‘군집분석’의 결과를 추가한, 전공 분야를 결합한 게임을 제작하는 프로젝트를 추진하게 되었다.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
