@@ -91,3 +91,13 @@
 •	http://www.koscap.or.kr/community/dataroom_view/?f_seq=393 (가요 음악 저작권 사용료에 관한 법률)
 
 •	https://datascienceschool.net/03%20machine%20learning/16.01%20%EA%B5%B0%EC%A7%91%ED%99%94.html (군집화 설명)
+
+
+# Licence:
+Song: Ikson - Cloudy
+Music promoted by Vlog No Copyright Music.
+Video Link:   
+
+ • Ikson - Cloudy (V...  
+
+#NoCopyrightMusic #VlogMusic #VlogNoCopyrightMusic
