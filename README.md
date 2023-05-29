@@ -98,6 +98,6 @@ Song: Ikson - Cloudy
 Music promoted by Vlog No Copyright Music.
 Video Link:   
 
- • Ikson - Cloudy (V...  
+ • Ikson - Cloudy (Vlog No Copyright Music)
 
 #NoCopyrightMusic #VlogMusic #VlogNoCopyrightMusic
